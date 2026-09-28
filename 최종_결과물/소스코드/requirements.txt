@@ -1,0 +1,5 @@
+streamlit
+pymysql
+python-dotenv
+google-genai
+pandas
